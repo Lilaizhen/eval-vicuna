@@ -13,6 +13,7 @@ from . import (
     vllm_causallms,
 )
 
+from .vicuna import VicunaLM
 
 # TODO: implement __all__
 
